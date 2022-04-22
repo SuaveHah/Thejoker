@@ -1,1 +1,1 @@
-[link to the website](https://github.com/SuaveHah/Thejoker.git)
+[link to the website](https://suavehah.github.io/Thejoker/)
